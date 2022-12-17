@@ -1,0 +1,20 @@
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+  
+}
+
+.video-container [aria-active='false'] {
+  display: none;
+  background-color: white;
+}
+
+.spinner {
+  height: 390px;
+  width: 640px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

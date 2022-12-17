@@ -1,0 +1,11 @@
+.container:hover {
+  cursor: pointer;
+  background-color: #0c6efd;
+  padding: 5px;
+  border-radius: 5px;
+  height: 100%;
+}
+
+.description {
+  padding: 5px;
+}

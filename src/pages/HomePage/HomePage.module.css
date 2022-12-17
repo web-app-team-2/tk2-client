@@ -1,0 +1,28 @@
+.container {
+  height: 100%;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10%, 1fr));
+  grid-gap: 10px;
+  background-color: #212529;
+  color: #444;
+}
+
+.box {
+  border-radius: 5px;
+}
+
+.loading {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-header {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: start;
+}

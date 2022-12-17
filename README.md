@@ -1,1 +1,1 @@
-# tk2-client
+# web-catalog-client
